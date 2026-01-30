@@ -15,12 +15,12 @@ A simple weather application built using HTML, CSS, and JavaScript that allows u
 
 
 ## 📂 Project Structure
-weather-app/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+- weather-app/
+  - index.html
+  - style.css
+  - script.js
+  - README.md
+
 
 ## ⚙️ How It Works
 - User enters a location
